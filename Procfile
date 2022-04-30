@@ -1,2 +1,2 @@
-web: python pythonSchedule.py
-worker: python pythonSchedule.py 
+web: python work_script.py
+worker: python work_script.py 
